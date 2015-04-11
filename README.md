@@ -1,7 +1,7 @@
 # prototyping-curriculum
-An in-progress ios-app-prototyping curriculum intended for railsbridge-like workshops. 
+An in-progress ios-app-prototyping-for-designers curriculum intended for railsbridge-like workshops.
 
-Obviously this is not usable yet. Submit a pull request or issue if you'd like to help. 
+This is not usable yet. Submit a pull request or issue if you'd like to help. 
 
 # Goals
 - Get students talking
@@ -10,12 +10,22 @@ Obviously this is not usable yet. Submit a pull request or issue if you'd like t
 - Super quick preview of interface builder
 - Hand-Wavy Language for talking about iOS code e.g. ViewController
 
+# Target Audience
+- Designers little or no programming experience
+- or expert programmers new to xCode
+
+# Before this
+TipCalculator: simple app to teach basic concepts. Goal to get a feel and familiarity with XCode and to see the languague (but not learn everything)
+-
+-
+
+
 # Open questions
 
-- When does this exercise happen? after tip calculator? before? beginner? intermediate?
-	- maybe this happens at the end as a wrap up/review? 
 - What is the "product" built? Is it deterministic? or is there a brain storming session? 
+	- d 	
 - Could the teachers "pair" on this exercise? Two keyboards, one types the other navigates? 
+- Suggest friday night session on app ideas
 
 # Teacher Background Knowledge
 - 3 most common types of navigation
@@ -23,6 +33,36 @@ Obviously this is not usable yet. Submit a pull request or issue if you'd like t
 	- push (navigation controller)
 	- modal (rise from below)
 	- custom (e.g. hamburger menu)
+
+# Part 1 - Brainstorm an app
+- Show them UI patterns 
+	- pttrns.com
+	- mobile-patterns.com
+- Collect ideas for apps (go around the room and have students share an idea for an app)
+	- for eachish idea, interject with an idea of a pattern that might apply (point to one in pttrns.com maybe)
+- hand out iPhone sized paper for drawing prototypes with instructions to actually write real sample text (not squiggles)
+- give students 15-20 minutes
+- have them "usability test" on other students 
+	- Suggest the kinds of questions to use as prompts in a usability test
+		- what do you think when you've gone to this screen
+		- you've just signed up with facebook what do you think this app does 
+		- you're trying to find a restaurant. What would you click on this screen
+	- test subjects should speak aloud what they think 
+		- I think I should type my name here. 
+		- I think this arrow will show me the address of the restaurant
+- 10 minutes to revise screens based on feedback. 
+- take iPhone photos of prototype screens
+- in preview cut out the pieces and add them to xcassets (may require tools->adjust size since iphone photos have all the pixels)
+- use them as backgrounds for image views
+- create navigation controllers natively (an ideal app for this exercise uses standard navigation: 1. tabs 2. push reveal 3. modal)
+- you should have a working wireframed app with hardcoded example data from paper mockup. 
+- Hurray!
+
+
+
+
+
+
 	
 # Questions/Actions that drive the class
 
