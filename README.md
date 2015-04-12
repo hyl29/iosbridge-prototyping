@@ -26,6 +26,7 @@ TipCalculator: simple app to teach basic concepts. Goal to get a feel and famili
 	- d 	
 - Could the teachers "pair" on this exercise? Two keyboards, one types the other navigates? 
 - Suggest friday night session on app ideas
+- disable auto layout? 
 
 # Teacher Background Knowledge
 - 3 most common types of navigation
@@ -60,7 +61,12 @@ TipCalculator: simple app to teach basic concepts. Goal to get a feel and famili
 
 
 
-
+#5 things that are special about phones
+- Geolocation
+- personal (contacts...)
+- accelerometer
+- camera / microphone / flashlight / photo / video / audio recording
+- gestures
 
 
 	
