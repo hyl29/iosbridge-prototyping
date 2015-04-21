@@ -1,23 +1,22 @@
 # prototyping-curriculum
 An in-progress ios-app-prototyping-for-designers curriculum intended for MobileBridge workshops.
 
-This is not usable yet. Submit a pull request or issue if you'd like to help.
+Submit a pull request or issue if you'd like to help.
 
 # Goals
-- Get students talking
-- Show students that they know stuff about iOS
-- Introduce Some standard iOS building blocks
-- Super quick preview of interface builder
-- Hand-Wavy Language for talking about iOS code e.g. ViewController
+- Students get experience with iOS design patterns, building an app of their own very quickly
+- Show students that they already know stuff about iOS
+- Introduce some standard iOS building blocks
+- Practical hands-on experience with Interface Builder
 
 # Target Audience
 - Designers little or no programming experience
-- or expert programmers new to xCode
+- or expert programmers new to Xcode
 
 # Before this
 
 TipCalculator: simple app to teach basic concepts.
-- Goal for students to get a feel and familiarity with XCode and to see the languague (but not learn everything)
+- Goal for students to get a feel and familiarity with XCode and to see the language (but not learn everything)
   - Experience with key concepts
 	 - a few controls (labels, text views, UIView)
 	 - Actions, Outlets
@@ -29,7 +28,7 @@ TipCalculator: simple app to teach basic concepts.
 # Open questions
 - ideally we'll have some expert TAs who can help students take their app where they want it to go if there's time
 - Suggest friday night session on app ideas
-- disable auto layout? 
+- disable auto layout?
 
 # Teacher Background Knowledge
 - 3 most common types of navigation
@@ -45,10 +44,24 @@ TipCalculator: simple app to teach basic concepts.
 - Collect ideas for apps (go around the room and have students share an idea for an app)
 	- for eachish idea, interject with an idea of a pattern that might apply (point to one in pttrns.com maybe)
 
+## Things that are special about phones
+Tell students to think about the kinds of things that are special about phones.  Ask them to tell you what these are, write on the whiteboard, add whatever they don't mention
+
+  - geolocation
+  - personal (contacts, always with you, your photos)
+  - Accelerometer
+  - camera / microphone (photos, video/audio recording)
+  - flashlight
+  - gestures
+  - push notification
+
 # Part 2 - Design
 
 - hand out iPhone sized paper for drawing prototypes with instructions to actually write real sample text (not squiggles)
 - give students 15-20 minutes
+
+Example:
+![hand drawn iPhone app with three screens (a forms and two different lists) with tab bar along the bottom ](images/hand-drawn-mockup.jpg)
 
 # Part 3 - Validate / Refine
 
@@ -71,14 +84,11 @@ TipCalculator: simple app to teach basic concepts.
 - you should have a working wireframed app with hardcoded example data from paper mockup.
 - Hurray!
 
+Examples:
 
-#5 things that are special about phones
-- Geolocation
-- personal (contacts...)
-- accelerometer
-- camera / microphone / flashlight / photo / video / audio recording
-- gestures
-
+![three text entry fields](images/1-screens/details.png)
+![three text entry fields](images/1-screens/people.png)
+![three text entry fields](images/1-screens/ideas.png)
 
 # Questions/Actions that drive the class
 
@@ -109,4 +119,3 @@ TipCalculator: simple app to teach basic concepts.
 - What information is in a nib? why are nibs separate from the code that describes their behavior?
 - what is a view controller?
 - what are three ways of navigating from one screen to another?
-
