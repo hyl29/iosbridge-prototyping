@@ -117,3 +117,5 @@ We should see it change like this:
 
 Now our prototype app has three tabs:
 ![](images/screenshots/image01.png)
+
+![](images/app2.gif)
