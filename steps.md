@@ -75,14 +75,24 @@ Run -- tabs work but things are sized incorrectly
 
 ![](images/screenshots/simulator0/anim.gif)
 
-## Sizing the Screens
-Size classes are a new feature of iOS 8 and Xcode 6, allowing you to have one storyboard for universal apps.
+## Sizing Images to Fit the Screens
+
+Auto-Layout has been the recommended way to control the layout of your views since the end of 2013. You use auto layout by creating constraints that will push and pull your views to the right place on the screen. 
+
 
 Select an ImageView for one of the tabs, Under menu Editor > Pin >
-- Top Space to Superview
+- Top Space to Superview ()
 - Leading Space to Superview
 - Trailing Space to Superview
 - Bottom Space to Superview
+
+![](images/screenshots/Constraints1NoConstraints.png)
+![](images/screenshots/Constraints2CreatingAConstraint.png)
+![](images/screenshots/Constraints3ConstraintCreated.png)
+![](images/screenshots/Constraints4ImageViewHasAConstraint.png)
+![](images/screenshots/Constraints5ImageViewHas4Constraints.png)
+
+There are at least two other ways to create the exact same constraints. Can you find them? 
 
 Do this for each image
 
