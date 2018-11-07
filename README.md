@@ -1,4 +1,4 @@
-# prototyping-curriculum
+# Prototyping-curriculum
 An in-progress ios-app-prototyping-for-designers curriculum intended for MobileBridge workshops.
 
 Submit a pull request or issue if you'd like to help.
@@ -10,7 +10,7 @@ Submit a pull request or issue if you'd like to help.
 - Practical hands-on experience with Interface Builder
 
 # Target Audience
-- Designers little or no programming experience
+- Designers with little or no programming experience
 - or expert programmers new to Xcode
 
 # Before this
@@ -42,7 +42,7 @@ TipCalculator: simple app to teach basic concepts.
 	- pttrns.com
 	- mobile-patterns.com
 - Collect ideas for apps (go around the room and have students share an idea for an app)
-	- for eachish idea, interject with an idea of a pattern that might apply (point to one in pttrns.com maybe)
+	- for each idea, interject with an idea of a pattern that might apply (point to one in pttrns.com maybe)
 
 ## Things that are special about phones
 Tell students to think about the kinds of things that are special about phones.  Ask them to tell you what these are, write on the whiteboard, add whatever they don't mention
@@ -57,7 +57,7 @@ Tell students to think about the kinds of things that are special about phones. 
 
 # Part 2 - Design
 
-- hand out iPhone sized paper for drawing prototypes with instructions to actually write real sample text (not squiggles)
+- hand out iPhone sized paper for drawing prototypes with instructions to write real sample text (not squiggles)
 - give students 15-20 minutes
 
 Example:
